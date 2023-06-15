@@ -1,0 +1,6 @@
+{
+    "username": "1336Stealer",
+    "href": "",
+    "avatar_url": "https://cdn.discordapp.com/attachments/1019867803349680168/1026121367764082769/a_721d6729d0b5e1a8979ab7a445378e9a.gif",
+    "credits": "@1336Stealer > Bby"
+}
